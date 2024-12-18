@@ -23,3 +23,4 @@ Instruction: _Write your full name here. Save it. Then, push your changes to the
 - YUAMMAR RAFIQ BIN YUSABRI b132310506@student.utem.edu.my B132310506
 - FOO CHUAN HENG B132310472@student.utem.edu.my B132310472
 - KHAW WEI ZHE b132310507@student.utem.edu.my B132310507
+- MUHAMMAD SYAFIQ BIN TARIQ b132310651@student.utem.edu.my B132310651
